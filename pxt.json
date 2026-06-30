@@ -1,5 +1,6 @@
 {
     "name": "tank gmeeeee",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",

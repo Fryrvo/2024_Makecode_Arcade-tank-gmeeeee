@@ -5,7 +5,7 @@
 >Yes most of them are not even work and some it an edit code i can't remember
 >#### YOU WILL FIND ALOT OF BUG AND UN "FUNCTIONAL" TINGS
 
-> Open this page at [https://fryrvo.github.io/2024_makecode_arcade-tank-gmeeeee/](https://fryrvo.github.io/2024_makecode_arcade-tank-gmeeeee/)
+> Open this page at [MakecodeArcade tank-gmeeeee](https://fryrvo.github.io/2024_Makecode_Arcade-tank-gmeeeee/)
 
 ## Use as Extension
 <details>
